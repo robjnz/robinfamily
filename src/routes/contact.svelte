@@ -1,3 +1,24 @@
+<script context="module">
+	export const prerender = true;
+</script>
+
+<svelte:head>
+	<title>Contact</title>
+	<!-- Google Tag Manager -->
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-PJS56TL');
+	</script>
+	<!-- End Google Tag Manager -->
+</svelte:head>
 <section class="container m-auto text-4xl text-blue-300 two">
 	<div id="blog-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
 		<br />

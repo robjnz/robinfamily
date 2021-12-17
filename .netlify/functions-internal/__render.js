@@ -6673,16 +6673,16 @@ var init_ssr = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/__layout-89447864.js
-var layout_89447864_exports = {};
-__export(layout_89447864_exports, {
+// .svelte-kit/output/server/chunks/__layout-4e47f4b1.js
+var layout_4e47f4b1_exports = {};
+__export(layout_4e47f4b1_exports, {
   default: () => _layout
 });
 var css$9, Nav, css$8, TheFooter, css$7, Australasia, css$6, Caribbean, css$5, Europe, css$4, Jewish, css$3, Northamerica, css$2, General, css$1, Dropdown, css, _layout;
-var init_layout_89447864 = __esm({
-  ".svelte-kit/output/server/chunks/__layout-89447864.js"() {
+var init_layout_4e47f4b1 = __esm({
+  ".svelte-kit/output/server/chunks/__layout-4e47f4b1.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$9 = {
       code: ".bg-teal-500.svelte-j03ddw{--tw-bg-opacity:1;background-color:rgba(20, 184, 166, var(--tw-bg-opacity))}.grid.svelte-j03ddw{display:-ms-grid;display:grid}.h-10.svelte-j03ddw{height:2.5rem}.text-4xl.svelte-j03ddw{font-size:2.25rem;line-height:2.5rem}.m-2.svelte-j03ddw{margin:0.5rem}.p-4.svelte-j03ddw{padding:1rem}.text-gray-200.svelte-j03ddw{--tw-text-opacity:1;color:rgba(229, 231, 235, var(--tw-text-opacity))}.gap-4.svelte-j03ddw{grid-gap:1rem;gap:1rem}.grid-cols-3.svelte-j03ddw{grid-template-columns:repeat(3, minmax(0, 1fr))}",
@@ -6867,9 +6867,9 @@ ${validate_component(TheFooter, "TheFooter").$$render($$result, {}, {}, {})}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/error-2f8493a2.js
-var error_2f8493a2_exports = {};
-__export(error_2f8493a2_exports, {
+// .svelte-kit/output/server/chunks/error-35ab80b7.js
+var error_35ab80b7_exports = {};
+__export(error_35ab80b7_exports, {
   default: () => Error2,
   load: () => load
 });
@@ -6877,10 +6877,10 @@ function load({ error: error2, status }) {
   return { props: { error: error2, status } };
 }
 var Error2;
-var init_error_2f8493a2 = __esm({
-  ".svelte-kit/output/server/chunks/error-2f8493a2.js"() {
+var init_error_35ab80b7 = __esm({
+  ".svelte-kit/output/server/chunks/error-35ab80b7.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     Error2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       let { status } = $$props;
@@ -6901,17 +6901,17 @@ ${error2.stack ? `<pre>${escape2(error2.stack)}</pre>` : ``}`;
   }
 });
 
-// .svelte-kit/output/server/chunks/index-b6f3cd28.js
-var index_b6f3cd28_exports = {};
-__export(index_b6f3cd28_exports, {
+// .svelte-kit/output/server/chunks/index-4bbf0348.js
+var index_4bbf0348_exports = {};
+__export(index_4bbf0348_exports, {
   default: () => Routes,
   prerender: () => prerender
 });
 var css2, prerender, Routes;
-var init_index_b6f3cd28 = __esm({
-  ".svelte-kit/output/server/chunks/index-b6f3cd28.js"() {
+var init_index_4bbf0348 = __esm({
+  ".svelte-kit/output/server/chunks/index-4bbf0348.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css2 = {
       code: ".one.svelte-f3km4q{text-align:center;margin-top:50px;margin-left:100px;margin-right:100px}.h-96.svelte-f3km4q{height:24rem}.text-6xl.svelte-f3km4q{font-size:3.75rem;line-height:1}.text-3xl.svelte-f3km4q{font-size:1.875rem;line-height:2.25rem}.text-xl.svelte-f3km4q{font-size:1.25rem;line-height:1.75rem}.object-fill.svelte-f3km4q{-o-object-fit:fill;object-fit:fill}.p-4.svelte-f3km4q{padding:1rem}.text-left.svelte-f3km4q{text-align:left}.text-center.svelte-f3km4q{text-align:center}.text-purple-500.svelte-f3km4q{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.text-purple-400.svelte-f3km4q{--tw-text-opacity:1;color:rgba(167, 139, 250, var(--tw-text-opacity))}.text-gray-600.svelte-f3km4q{--tw-text-opacity:1;color:rgba(75, 85, 99, var(--tw-text-opacity))}.w-full.svelte-f3km4q{width:100%}.gap-4.svelte-f3km4q{grid-gap:1rem;gap:1rem}.grid-cols-2.svelte-f3km4q{grid-template-columns:repeat(2, minmax(0, 1fr))}@media(min-width: 640px){.sm\\:grid.svelte-f3km4q{display:-ms-grid;display:grid}}@media(min-width: 768px){.md\\:grid.svelte-f3km4q{display:-ms-grid;display:grid}}",
@@ -6950,17 +6950,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }
 });
 
-// .svelte-kit/output/server/chunks/netherlands-j-789ff4a0.js
-var netherlands_j_789ff4a0_exports = {};
-__export(netherlands_j_789ff4a0_exports, {
+// .svelte-kit/output/server/chunks/netherlands-j-702f5063.js
+var netherlands_j_702f5063_exports = {};
+__export(netherlands_j_702f5063_exports, {
   default: () => Netherlands_j,
   prerender: () => prerender2
 });
 var css$52, Sephardic99, css$42, Joods99, css$32, Cemeteries99, css$22, Amst99, css$12, Akevoth99, css3, prerender2, Netherlands_j;
-var init_netherlands_j_789ff4a0 = __esm({
-  ".svelte-kit/output/server/chunks/netherlands-j-789ff4a0.js"() {
+var init_netherlands_j_702f5063 = __esm({
+  ".svelte-kit/output/server/chunks/netherlands-j-702f5063.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$52 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -7052,7 +7052,11 @@ var init_netherlands_j_789ff4a0 = __esm({
     prerender2 = true;
     Netherlands_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css3);
-      return `${$$result.head += `${$$result.title = `<title>Netherlands Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Netherlands Jewish</title>`, ""}<script data-svelte="svelte-ob6hc7">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638904035/webp/netherlands-flag.webp"}" alt="${"image of netherlands flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		Netherlands Jewish Family History Resourses
@@ -7069,17 +7073,17 @@ var init_netherlands_j_789ff4a0 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/australia-j-1fb4c6fc.js
-var australia_j_1fb4c6fc_exports = {};
-__export(australia_j_1fb4c6fc_exports, {
+// .svelte-kit/output/server/chunks/australia-j-c5d4894a.js
+var australia_j_c5d4894a_exports = {};
+__export(australia_j_c5d4894a_exports, {
   default: () => Australia_j,
   prerender: () => prerender3
 });
 var css$23, Society99, css$13, Historical99, css4, prerender3, Australia_j;
-var init_australia_j_1fb4c6fc = __esm({
-  ".svelte-kit/output/server/chunks/australia-j-1fb4c6fc.js"() {
+var init_australia_j_c5d4894a = __esm({
+  ".svelte-kit/output/server/chunks/australia-j-c5d4894a.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$23 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -7122,7 +7126,11 @@ var init_australia_j_1fb4c6fc = __esm({
     prerender3 = true;
     Australia_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css4);
-      return `${$$result.head += `${$$result.title = `<title>Australia Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Australia Jewish</title>`, ""}<script data-svelte="svelte-1oxodmh">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638860154/webp/australia-flag.webp"}" alt="${"image of australian flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
@@ -7136,17 +7144,17 @@ var init_australia_j_1fb4c6fc = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/netherlands-519f9c87.js
-var netherlands_519f9c87_exports = {};
-__export(netherlands_519f9c87_exports, {
+// .svelte-kit/output/server/chunks/netherlands-562cbfaa.js
+var netherlands_562cbfaa_exports = {};
+__export(netherlands_562cbfaa_exports, {
   default: () => Netherlands,
   prerender: () => prerender4
 });
 var css$43, Wie, css$33, Open, css$24, Roots, css$14, Amsterdam, css5, prerender4, Netherlands;
-var init_netherlands_519f9c87 = __esm({
-  ".svelte-kit/output/server/chunks/netherlands-519f9c87.js"() {
+var init_netherlands_562cbfaa = __esm({
+  ".svelte-kit/output/server/chunks/netherlands-562cbfaa.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$43 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -7219,7 +7227,11 @@ var init_netherlands_519f9c87 = __esm({
     prerender4 = true;
     Netherlands = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css5);
-      return `${$$result.head += `${$$result.title = `<title>Netherlands</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Netherlands</title>`, ""}<script data-svelte="svelte-1m6r4bv">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638904035/webp/netherlands-flag.webp"}" alt="${"image of netherlands flag"}"></div>
 
@@ -7236,17 +7248,17 @@ var init_netherlands_519f9c87 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/austrian-j-be12428b.js
-var austrian_j_be12428b_exports = {};
-__export(austrian_j_be12428b_exports, {
+// .svelte-kit/output/server/chunks/austrian-j-0057ce56.js
+var austrian_j_0057ce56_exports = {};
+__export(austrian_j_0057ce56_exports, {
   default: () => Austrian_j,
   prerender: () => prerender5
 });
 var css$44, Community99, css$34, Buried99, css$25, Weddings99, css$15, Birth99, css6, prerender5, Austrian_j;
-var init_austrian_j_be12428b = __esm({
-  ".svelte-kit/output/server/chunks/austrian-j-be12428b.js"() {
+var init_austrian_j_0057ce56 = __esm({
+  ".svelte-kit/output/server/chunks/austrian-j-0057ce56.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$44 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -7325,7 +7337,11 @@ var init_austrian_j_be12428b = __esm({
     prerender5 = true;
     Austrian_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css6);
-      return `${$$result.head += `${$$result.title = `<title>Austrian Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Austrian Jewish</title>`, ""}<script data-svelte="svelte-4h7p4e">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638876704/webp/austria-flag.webp"}" alt="${"image of Austrian flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
@@ -7343,17 +7359,17 @@ var init_austrian_j_be12428b = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/newzealand-016b8a61.js
-var newzealand_016b8a61_exports = {};
-__export(newzealand_016b8a61_exports, {
+// .svelte-kit/output/server/chunks/newzealand-2e05cc2d.js
+var newzealand_2e05cc2d_exports = {};
+__export(newzealand_2e05cc2d_exports, {
   default: () => Newzealand,
   prerender: () => prerender6
 });
 var css$53, State, css$45, Historical, css$35, Gazette, css$26, Companies, css$16, Auckland, css7, prerender6, Newzealand;
-var init_newzealand_016b8a61 = __esm({
-  ".svelte-kit/output/server/chunks/newzealand-016b8a61.js"() {
+var init_newzealand_2e05cc2d = __esm({
+  ".svelte-kit/output/server/chunks/newzealand-2e05cc2d.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$53 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -7447,7 +7463,11 @@ var init_newzealand_016b8a61 = __esm({
     prerender6 = true;
     Newzealand = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css7);
-      return `${$$result.head += `${$$result.title = `<title>New Zealand</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>New Zealand</title>`, ""}<script data-svelte="svelte-18jy4qu">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one svelte-1nupwvf"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-1nupwvf"}"><div class="${"h-10 w-14 inline-block svelte-1nupwvf"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638865677/webp/newzealand-flag.webp"}" alt="${"image of new zealand flag"}"></div>
 		
@@ -7466,17 +7486,17 @@ var init_newzealand_016b8a61 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/australia-dd4877bb.js
-var australia_dd4877bb_exports = {};
-__export(australia_dd4877bb_exports, {
+// .svelte-kit/output/server/chunks/australia-c139f062.js
+var australia_c139f062_exports = {};
+__export(australia_c139f062_exports, {
   default: () => Australia,
   prerender: () => prerender7
 });
 var css$27, Ausstate, css$17, Gen, css8, prerender7, Australia;
-var init_australia_dd4877bb = __esm({
-  ".svelte-kit/output/server/chunks/australia-dd4877bb.js"() {
+var init_australia_c139f062 = __esm({
+  ".svelte-kit/output/server/chunks/australia-c139f062.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$27 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -7518,7 +7538,11 @@ var init_australia_dd4877bb = __esm({
     prerender7 = true;
     Australia = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css8);
-      return `${$$result.head += `${$$result.title = `<title>Australia</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Australia</title>`, ""}<script data-svelte="svelte-1mvatye">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one svelte-10wioxk"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-10wioxk"}"><div class="${"h-10 w-14 inline-block svelte-10wioxk"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638860154/webp/australia-flag.webp"}" alt="${"image of australian flag"}"></div>
 		Australian Family History Resourses
@@ -7532,17 +7556,17 @@ var init_australia_dd4877bb = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/belarus-j-601d5fd9.js
-var belarus_j_601d5fd9_exports = {};
-__export(belarus_j_601d5fd9_exports, {
+// .svelte-kit/output/server/chunks/belarus-j-ecd052d4.js
+var belarus_j_ecd052d4_exports = {};
+__export(belarus_j_ecd052d4_exports, {
   default: () => Belarus_j,
   prerender: () => prerender8
 });
 var css$46, Mogilev99, css$36, Resources99, css$28, Sig99, css$18, Weiner99, css9, prerender8, Belarus_j;
-var init_belarus_j_601d5fd9 = __esm({
-  ".svelte-kit/output/server/chunks/belarus-j-601d5fd9.js"() {
+var init_belarus_j_ecd052d4 = __esm({
+  ".svelte-kit/output/server/chunks/belarus-j-ecd052d4.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$46 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -7621,7 +7645,11 @@ var init_belarus_j_601d5fd9 = __esm({
     prerender8 = true;
     Belarus_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css9);
-      return `${$$result.head += `${$$result.title = `<title>Belarus Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Belarus Jewish</title>`, ""}<script data-svelte="svelte-1y8lppf">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638877031/webp/belarus-flag.webp"}" alt="${"image of Belarus flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		Belarus Jewish Family History Resourses
@@ -7637,17 +7665,17 @@ var init_belarus_j_601d5fd9 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/british-j-8e940bef.js
-var british_j_8e940bef_exports = {};
-__export(british_j_8e940bef_exports, {
+// .svelte-kit/output/server/chunks/british-j-2b8ae92c.js
+var british_j_2b8ae92c_exports = {};
+__export(british_j_2b8ae92c_exports, {
   default: () => British_j,
   prerender: () => prerender9
 });
 var css$m, Western, css$l, United, css$k, Liberal, css$j, Federation, css$i, Adath, css$h, Glasgow99, css$g, Scotland99, css$f, Southend99, css$e, Gilroes99, css$d, Eighteenfiftyone99, css$c, Fifty, css$b, Synagogue99, css$a, Scribes99, css$92, Honour99, css$82, Jraf99, css$72, Marriage99, css$62, War99, css$54, Roots99, css$47, School99, css$37, Jcr99, css$29, Chronicle99, css$19, Commercial99, css10, prerender9, British_j;
-var init_british_j_8e940bef = __esm({
-  ".svelte-kit/output/server/chunks/british-j-8e940bef.js"() {
+var init_british_j_2b8ae92c = __esm({
+  ".svelte-kit/output/server/chunks/british-j-2b8ae92c.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$m = {
       code: ".bg-gray-100.svelte-6g40xv{--tw-bg-opacity:1;background-color:rgba(243, 244, 246, var(--tw-bg-opacity))}.rounded-lg.svelte-6g40xv{border-radius:0.5rem}.border.svelte-6g40xv{border-width:1px}.m-4.svelte-6g40xv{margin:1rem}.overflow-auto.svelte-6g40xv{overflow:auto}.p-4.svelte-6g40xv{padding:1rem}.px-4.svelte-6g40xv{padding-left:1rem;padding-right:1rem}.py-2.svelte-6g40xv{padding-top:0.5rem;padding-bottom:0.5rem}.shadow-2xl.svelte-6g40xv{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.table-auto.svelte-6g40xv{table-layout:auto}.text-left.svelte-6g40xv{text-align:left}.text-white.svelte-6g40xv{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-6g40xv:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-6g40xv{width:auto}",
@@ -8144,7 +8172,11 @@ var init_british_j_8e940bef = __esm({
     prerender9 = true;
     British_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css10);
-      return `${$$result.head += `${$$result.title = `<title>British Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>British Jewish</title>`, ""}<script data-svelte="svelte-1rbu4tm">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-18ph97w"}"><div class="${"h-10 w-14 inline-block svelte-18ph97w"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638864273/webp/uk-flag.webp"}" alt="${"image of British flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-18ph97w"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		British Jewish Family History Resourses
@@ -8198,17 +8230,17 @@ var init_british_j_8e940bef = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/ireland-j-12a2149c.js
-var ireland_j_12a2149c_exports = {};
-__export(ireland_j_12a2149c_exports, {
+// .svelte-kit/output/server/chunks/ireland-j-131c09a6.js
+var ireland_j_131c09a6_exports = {};
+__export(ireland_j_131c09a6_exports, {
   default: () => Ireland_j,
   prerender: () => prerender10
 });
 var css$110, Gensociety99, css11, prerender10, Ireland_j;
-var init_ireland_j_12a2149c = __esm({
-  ".svelte-kit/output/server/chunks/ireland-j-12a2149c.js"() {
+var init_ireland_j_131c09a6 = __esm({
+  ".svelte-kit/output/server/chunks/ireland-j-131c09a6.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$110 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8232,7 +8264,11 @@ var init_ireland_j_12a2149c = __esm({
     prerender10 = true;
     Ireland_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css11);
-      return `${$$result.head += `${$$result.title = `<title>Irish Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Irish Jewish</title>`, ""}<script data-svelte="svelte-1n8kf6o">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638893914/webp/ireland-flag.webp"}" alt="${"image of irish flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		Irish Jewish Family History Resourses
@@ -8244,17 +8280,17 @@ var init_ireland_j_12a2149c = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/italian-j-769ded5a.js
-var italian_j_769ded5a_exports = {};
-__export(italian_j_769ded5a_exports, {
+// .svelte-kit/output/server/chunks/italian-j-37c326b1.js
+var italian_j_37c326b1_exports = {};
+__export(italian_j_37c326b1_exports, {
   default: () => Italian_j,
   prerender: () => prerender11
 });
 var css$210, Sicily99, css$111, Italygen99, css12, prerender11, Italian_j;
-var init_italian_j_769ded5a = __esm({
-  ".svelte-kit/output/server/chunks/italian-j-769ded5a.js"() {
+var init_italian_j_37c326b1 = __esm({
+  ".svelte-kit/output/server/chunks/italian-j-37c326b1.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$210 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8297,7 +8333,11 @@ var init_italian_j_769ded5a = __esm({
     prerender11 = true;
     Italian_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css12);
-      return `${$$result.head += `${$$result.title = `<title>Italian Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Italian Jewish</title>`, ""}<script data-svelte="svelte-1g8sz33">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639305963/webp/italian_flag.webp"}" alt="${"image of Italian flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		Italian Jewish Family History Resourses
@@ -8310,17 +8350,17 @@ var init_italian_j_769ded5a = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/russian-j-cb4aa422.js
-var russian_j_cb4aa422_exports = {};
-__export(russian_j_cb4aa422_exports, {
+// .svelte-kit/output/server/chunks/russian-j-dbdb5073.js
+var russian_j_dbdb5073_exports = {};
+__export(russian_j_dbdb5073_exports, {
   default: () => Russian_j,
   prerender: () => prerender12
 });
 var css$38, Hiborim99, css$211, Soldier99, css$112, Lipes99, css13, prerender12, Russian_j;
-var init_russian_j_cb4aa422 = __esm({
-  ".svelte-kit/output/server/chunks/russian-j-cb4aa422.js"() {
+var init_russian_j_dbdb5073 = __esm({
+  ".svelte-kit/output/server/chunks/russian-j-dbdb5073.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$38 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8379,7 +8419,11 @@ var init_russian_j_cb4aa422 = __esm({
     prerender12 = true;
     Russian_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css13);
-      return `${$$result.head += `${$$result.title = `<title>Russian Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Russian Jewish</title>`, ""}<script data-svelte="svelte-1hydr2w">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638945399/webp/russian-flag.webp"}" alt="${"image of Russian flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		Russian Jewish Family History Resourses
@@ -8393,17 +8437,17 @@ var init_russian_j_cb4aa422 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/ukraine-j-f6d6de0a.js
-var ukraine_j_f6d6de0a_exports = {};
-__export(ukraine_j_f6d6de0a_exports, {
+// .svelte-kit/output/server/chunks/ukraine-j-07358b39.js
+var ukraine_j_07358b39_exports = {};
+__export(ukraine_j_07358b39_exports, {
   default: () => Ukraine_j,
   prerender: () => prerender13
 });
 var css$93, Kehilalinks99, css$83, Skala99, css$73, Odessa99, css$63, Mohyliv99, css$55, Yar99, css$48, Moved, css$39, Dnipro99, css$212, Memorial99, css$113, Dnipropetrovsk99, css14, prerender13, Ukraine_j;
-var init_ukraine_j_f6d6de0a = __esm({
-  ".svelte-kit/output/server/chunks/ukraine-j-f6d6de0a.js"() {
+var init_ukraine_j_07358b39 = __esm({
+  ".svelte-kit/output/server/chunks/ukraine-j-07358b39.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$93 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8568,7 +8612,11 @@ var init_ukraine_j_f6d6de0a = __esm({
     prerender13 = true;
     Ukraine_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css14);
-      return `${$$result.head += `${$$result.title = `<title>Ukraine Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Ukraine Jewish</title>`, ""}<script data-svelte="svelte-1yf4yoc">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638978523/webp/ukraine-flag.webp"}" alt="${"image of Ukraine flag"}"></div>
 
@@ -8590,17 +8638,17 @@ var init_ukraine_j_f6d6de0a = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/austrian-953142b1.js
-var austrian_953142b1_exports = {};
-__export(austrian_953142b1_exports, {
+// .svelte-kit/output/server/chunks/austrian-51ea65b5.js
+var austrian_51ea65b5_exports = {};
+__export(austrian_51ea65b5_exports, {
   default: () => Austrian,
   prerender: () => prerender14
 });
 var css$213, Vienna, css$114, Auststate, css15, prerender14, Austrian;
-var init_austrian_953142b1 = __esm({
-  ".svelte-kit/output/server/chunks/austrian-953142b1.js"() {
+var init_austrian_51ea65b5 = __esm({
+  ".svelte-kit/output/server/chunks/austrian-51ea65b5.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$213 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8641,7 +8689,11 @@ var init_austrian_953142b1 = __esm({
     prerender14 = true;
     Austrian = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css15);
-      return `${$$result.head += `${$$result.title = `<title>Austrian</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Austrian</title>`, ""}<script data-svelte="svelte-1u69rnu">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638876704/webp/austria-flag.webp"}" alt="${"image of Austrian flag"}"></div>
 
@@ -8656,17 +8708,17 @@ var init_austrian_953142b1 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/barbados-a3badc59.js
-var barbados_a3badc59_exports = {};
-__export(barbados_a3badc59_exports, {
+// .svelte-kit/output/server/chunks/barbados-7ba993e6.js
+var barbados_7ba993e6_exports = {};
+__export(barbados_7ba993e6_exports, {
   default: () => Barbados,
   prerender: () => prerender15
 });
 var css$310, Barbstate, css$214, Family, css$115, Genbarb, css16, prerender15, Barbados;
-var init_barbados_a3badc59 = __esm({
-  ".svelte-kit/output/server/chunks/barbados-a3badc59.js"() {
+var init_barbados_7ba993e6 = __esm({
+  ".svelte-kit/output/server/chunks/barbados-7ba993e6.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$310 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8726,7 +8778,11 @@ var init_barbados_a3badc59 = __esm({
     prerender15 = true;
     Barbados = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css16);
-      return `${$$result.head += `${$$result.title = `<title>Barbados</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Barbados</title>`, ""}<script data-svelte="svelte-1nn6a5n">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638866632/webp/barbados-flag_mngc34.webp"}" alt="${"image of Barbados flag"}"></div>
 
@@ -8742,17 +8798,17 @@ var init_barbados_a3badc59 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/canada-j-6c1ad01c.js
-var canada_j_6c1ad01c_exports = {};
-__export(canada_j_6c1ad01c_exports, {
+// .svelte-kit/output/server/chunks/canada-j-358c108f.js
+var canada_j_358c108f_exports = {};
+__export(canada_j_358c108f_exports, {
   default: () => Canada_j,
   prerender: () => prerender16
 });
 var css$116, Network, css17, prerender16, Canada_j;
-var init_canada_j_6c1ad01c = __esm({
-  ".svelte-kit/output/server/chunks/canada-j-6c1ad01c.js"() {
+var init_canada_j_358c108f = __esm({
+  ".svelte-kit/output/server/chunks/canada-j-358c108f.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$116 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8778,7 +8834,11 @@ var init_canada_j_6c1ad01c = __esm({
     prerender16 = true;
     Canada_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css17);
-      return `${$$result.head += `${$$result.title = `<title>Canada Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Canada Jewish</title>`, ""}<script data-svelte="svelte-c2z4kb">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639243547/webp/canada-flag.webp"}" alt="${"image of Canadian flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		Canadian Jewish Family History Resourses
@@ -8790,17 +8850,17 @@ var init_canada_j_6c1ad01c = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/belarus-290ba117.js
-var belarus_290ba117_exports = {};
-__export(belarus_290ba117_exports, {
+// .svelte-kit/output/server/chunks/belarus-3c8c66d4.js
+var belarus_3c8c66d4_exports = {};
+__export(belarus_3c8c66d4_exports, {
   default: () => Belarus,
   prerender: () => prerender17
 });
 var css$215, Mogilev, css$117, Belstate, css18, prerender17, Belarus;
-var init_belarus_290ba117 = __esm({
-  ".svelte-kit/output/server/chunks/belarus-290ba117.js"() {
+var init_belarus_3c8c66d4 = __esm({
+  ".svelte-kit/output/server/chunks/belarus-3c8c66d4.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$215 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8841,7 +8901,11 @@ var init_belarus_290ba117 = __esm({
     prerender17 = true;
     Belarus = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css18);
-      return `${$$result.head += `${$$result.title = `<title>Belarus</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Belarus</title>`, ""}<script data-svelte="svelte-1egzf07">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638877031/webp/belarus-flag.webp"}" alt="${"image of Belarus flag"}"></div>
 
 		Belarus Family History Resourses
@@ -8855,17 +8919,17 @@ var init_belarus_290ba117 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/belgium-6d0404f4.js
-var belgium_6d0404f4_exports = {};
-__export(belgium_6d0404f4_exports, {
+// .svelte-kit/output/server/chunks/belgium-c3c4b896.js
+var belgium_c3c4b896_exports = {};
+__export(belgium_c3c4b896_exports, {
   default: () => Belgium,
   prerender: () => prerender18
 });
 var css$311, Genealogy, css$216, Ancestry, css$118, Belgstate, css19, prerender18, Belgium;
-var init_belgium_6d0404f4 = __esm({
-  ".svelte-kit/output/server/chunks/belgium-6d0404f4.js"() {
+var init_belgium_c3c4b896 = __esm({
+  ".svelte-kit/output/server/chunks/belgium-c3c4b896.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$311 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -8922,7 +8986,11 @@ var init_belgium_6d0404f4 = __esm({
     prerender18 = true;
     Belgium = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css19);
-      return `${$$result.head += `${$$result.title = `<title>Belgium</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Belgium</title>`, ""}<script data-svelte="svelte-wxjyr0">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638877222/webp/belgium-flag.webp"}" alt="${"image of Belgium flag"}"></div>
 
 		Belgium Family History Resourses
@@ -8937,17 +9005,17 @@ var init_belgium_6d0404f4 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/bermuda-880a2caa.js
-var bermuda_880a2caa_exports = {};
-__export(bermuda_880a2caa_exports, {
+// .svelte-kit/output/server/chunks/bermuda-92180cdc.js
+var bermuda_92180cdc_exports = {};
+__export(bermuda_92180cdc_exports, {
   default: () => Bermuda,
   prerender: () => prerender19
 });
 var css$312, Berstate, css$217, National, css$119, Berfamily, css20, prerender19, Bermuda;
-var init_bermuda_880a2caa = __esm({
-  ".svelte-kit/output/server/chunks/bermuda-880a2caa.js"() {
+var init_bermuda_92180cdc = __esm({
+  ".svelte-kit/output/server/chunks/bermuda-92180cdc.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$312 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -9007,7 +9075,11 @@ var init_bermuda_880a2caa = __esm({
     prerender19 = true;
     Bermuda = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css20);
-      return `${$$result.head += `${$$result.title = `<title>Bermuda</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Bermuda</title>`, ""}<script data-svelte="svelte-fvsv7v">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638866804/webp/bermuda-flag_rgvbdd.webp"}" alt="${"image of Bermuda flag"}"></div>
 
@@ -9023,17 +9095,17 @@ var init_bermuda_880a2caa = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/british-e1764ff2.js
-var british_e1764ff2_exports = {};
-__export(british_e1764ff2_exports, {
+// .svelte-kit/output/server/chunks/british-221a9a65.js
+var british_221a9a65_exports = {};
+__export(british_221a9a65_exports, {
   default: () => British,
   prerender: () => prerender20
 });
 var css$g2, Scotland, css$f2, Thirtynine, css$e2, Workhouse, css$d2, Wills, css$c2, Graves, css$b2, Britstate, css$a2, Navy, css$94, Raf, css$84, Newspaper, css$74, Gazette2, css$64, Industral, css$56, Directories, css$49, Electoral, css$313, Companies2, css$218, Children, css$120, Bmd, css21, prerender20, British;
-var init_british_e1764ff2 = __esm({
-  ".svelte-kit/output/server/chunks/british-e1764ff2.js"() {
+var init_british_221a9a65 = __esm({
+  ".svelte-kit/output/server/chunks/british-221a9a65.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$g2 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -9347,7 +9419,11 @@ var init_british_e1764ff2 = __esm({
     prerender20 = true;
     British = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css21);
-      return `${$$result.head += `${$$result.title = `<title>British</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>British</title>`, ""}<script data-svelte="svelte-l1q8u6">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638864273/webp/uk-flag.webp"}" alt="${"image of British flag"}"></div>
 
 		British Family History Resourses
@@ -9384,24 +9460,37 @@ var init_british_e1764ff2 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/contact-f32739d8.js
-var contact_f32739d8_exports = {};
-__export(contact_f32739d8_exports, {
-  default: () => Contact
+// .svelte-kit/output/server/chunks/contact-a82d7638.js
+var contact_a82d7638_exports = {};
+__export(contact_a82d7638_exports, {
+  default: () => Contact,
+  prerender: () => prerender21
 });
-var css22, Contact;
-var init_contact_f32739d8 = __esm({
-  ".svelte-kit/output/server/chunks/contact-f32739d8.js"() {
+var css22, prerender21, Contact;
+var init_contact_a82d7638 = __esm({
+  ".svelte-kit/output/server/chunks/contact-a82d7638.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css22 = {
       code: ".container.svelte-tjqxua{width:100%}@media(min-width: 640px){.container.svelte-tjqxua{max-width:640px}}@media(min-width: 768px){.container.svelte-tjqxua{max-width:768px}}@media(min-width: 1024px){.container.svelte-tjqxua{max-width:1024px}}@media(min-width: 1280px){.container.svelte-tjqxua{max-width:1280px}}@media(min-width: 1536px){.container.svelte-tjqxua{max-width:1536px}}.rounded-lg.svelte-tjqxua{border-radius:0.5rem}.text-4xl.svelte-tjqxua{font-size:2.25rem;line-height:2.5rem}.m-auto.svelte-tjqxua{margin:auto}.m-4.svelte-tjqxua{margin:1rem}.p-4.svelte-tjqxua{padding:1rem}.shadow-2xl.svelte-tjqxua{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-blue-300.svelte-tjqxua{--tw-text-opacity:1;color:rgba(147, 197, 253, var(--tw-text-opacity))}.w-auto.svelte-tjqxua{width:auto}",
       map: null
     };
+    prerender21 = true;
     Contact = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css22);
-      return `<section class="${"container m-auto text-4xl text-blue-300 two svelte-tjqxua"}"><div id="${"blog-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-tjqxua"}"><br>
+      return `${$$result.head += `${$$result.title = `<title>Contact</title>`, ""}<script data-svelte="svelte-12sdyq6">(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-PJS56TL');
+	<\/script>`, ""}
+<section class="${"container m-auto text-4xl text-blue-300 two svelte-tjqxua"}"><div id="${"blog-card"}" class="${"m-4 p-4 w-auto rounded-lg shadow-2xl svelte-tjqxua"}"><br>
 
 		<div data-aidaform-widget="${"form-2019-12"}" data-url="${"https://robin8.aidaform.com/expert-account-template-contact-form-with-captcha"}" data-width="${"100%"}" data-height="${"500px"}" data-do-resize></div>
 		<script>(function () {
@@ -9424,17 +9513,17 @@ var init_contact_f32739d8 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/general-d91ae5a4.js
-var general_d91ae5a4_exports = {};
-__export(general_d91ae5a4_exports, {
+// .svelte-kit/output/server/chunks/general-ef6e732d.js
+var general_ef6e732d_exports = {};
+__export(general_ef6e732d_exports, {
   default: () => General2,
-  prerender: () => prerender21
+  prerender: () => prerender22
 });
-var css$k2, Transkribus, css$j2, Shtetl, css$i2, Hebrew, css$h2, Convert, css$g3, Ahnenblatt, css$f3, Mate, css$e3, Simcha, css$d3, Roots2, css$c3, Jri, css$b3, JewishGen, css$a3, Gems, css$95, Cemeteries, css$85, Prisoners, css$75, Heritage, css$65, Geneanet, css$57, Past, css$410, Find, css$314, Mormons, css$219, Graves2, css$121, Ancestry2, css23, prerender21, General2;
-var init_general_d91ae5a4 = __esm({
-  ".svelte-kit/output/server/chunks/general-d91ae5a4.js"() {
+var css$k2, Transkribus, css$j2, Shtetl, css$i2, Hebrew, css$h2, Convert, css$g3, Ahnenblatt, css$f3, Mate, css$e3, Simcha, css$d3, Roots2, css$c3, Jri, css$b3, JewishGen, css$a3, Gems, css$95, Cemeteries, css$85, Prisoners, css$75, Heritage, css$65, Geneanet, css$57, Past, css$410, Find, css$314, Mormons, css$219, Graves2, css$121, Ancestry2, css23, prerender22, General2;
+var init_general_ef6e732d = __esm({
+  ".svelte-kit/output/server/chunks/general-ef6e732d.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$k2 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -9781,10 +9870,14 @@ var init_general_d91ae5a4 = __esm({
       code: ".inline-block.svelte-g219g3{display:inline-block}.grid.svelte-g219g3{display:-ms-grid;display:grid}.h-10.svelte-g219g3{height:2.5rem}.text-4xl.svelte-g219g3{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-g219g3{margin-left:2rem}.mt-3.svelte-g219g3{margin-top:0.75rem}.mt-20.svelte-g219g3{margin-top:5rem}.mt-8.svelte-g219g3{margin-top:2rem}.text-center.svelte-g219g3{text-align:center}.text-purple-500.svelte-g219g3{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-g219g3{width:3.5rem}.gap-4.svelte-g219g3{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-g219g3{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender21 = true;
+    prerender22 = true;
     General2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css23);
-      return `${$$result.head += `${$$result.title = `<title>General</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>General</title>`, ""}<script data-svelte="svelte-1ecestv">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639481977/webp/search.webp"}" alt="${"image of man searching"}"></div>
 
 		General Family History Resourses
@@ -9828,17 +9921,17 @@ var init_general_d91ae5a4 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/ireland-8230ba4c.js
-var ireland_8230ba4c_exports = {};
-__export(ireland_8230ba4c_exports, {
+// .svelte-kit/output/server/chunks/ireland-955b3c0e.js
+var ireland_955b3c0e_exports = {};
+__export(ireland_955b3c0e_exports, {
   default: () => Ireland,
-  prerender: () => prerender22
+  prerender: () => prerender23
 });
-var css$315, Toolkit, css$220, Genealogy2, css$122, Census, css24, prerender22, Ireland;
-var init_ireland_8230ba4c = __esm({
-  ".svelte-kit/output/server/chunks/ireland-8230ba4c.js"() {
+var css$315, Toolkit, css$220, Genealogy2, css$122, Census, css24, prerender23, Ireland;
+var init_ireland_955b3c0e = __esm({
+  ".svelte-kit/output/server/chunks/ireland-955b3c0e.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$315 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -9892,10 +9985,14 @@ var init_ireland_8230ba4c = __esm({
       code: ".inline-block.svelte-aztiwm{display:inline-block}.grid.svelte-aztiwm{display:-ms-grid;display:grid}.h-10.svelte-aztiwm{height:2.5rem}.text-4xl.svelte-aztiwm{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-aztiwm{margin-left:2rem}.mt-3.svelte-aztiwm{margin-top:0.75rem}.mt-20.svelte-aztiwm{margin-top:5rem}.text-center.svelte-aztiwm{text-align:center}.text-purple-500.svelte-aztiwm{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-aztiwm{width:3.5rem}.gap-4.svelte-aztiwm{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-aztiwm{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender22 = true;
+    prerender23 = true;
     Ireland = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css24);
-      return `${$$result.head += `${$$result.title = `<title>Ireland</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Ireland</title>`, ""}<script data-svelte="svelte-xp0fuu">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638893914/webp/ireland-flag.webp"}" alt="${"image of irish flag"}"></div>
 
@@ -9910,12 +10007,12 @@ var init_ireland_8230ba4c = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/Lost-0e12fd9f.js
+// .svelte-kit/output/server/chunks/Lost-807d30ff.js
 var css25, Lost;
-var init_Lost_0e12fd9f = __esm({
-  ".svelte-kit/output/server/chunks/Lost-0e12fd9f.js"() {
+var init_Lost_807d30ff = __esm({
+  ".svelte-kit/output/server/chunks/Lost-807d30ff.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     css25 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
       map: null
@@ -9935,18 +10032,18 @@ var init_Lost_0e12fd9f = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/russian-5a1b11c3.js
-var russian_5a1b11c3_exports = {};
-__export(russian_5a1b11c3_exports, {
+// .svelte-kit/output/server/chunks/russian-c93f69ad.js
+var russian_c93f69ad_exports = {};
+__export(russian_c93f69ad_exports, {
   default: () => Russian,
-  prerender: () => prerender23
+  prerender: () => prerender24
 });
-var css$b4, First, css$a4, Stalingrad, css$96, Soviet, css$86, Memorial, css$76, Awards, css$66, Leningrad, css$58, War, css$411, Forebears, css$316, Family2, css$221, Cursive, css$123, Latin, css26, prerender23, Russian;
-var init_russian_5a1b11c3 = __esm({
-  ".svelte-kit/output/server/chunks/russian-5a1b11c3.js"() {
+var css$b4, First, css$a4, Stalingrad, css$96, Soviet, css$86, Memorial, css$76, Awards, css$66, Leningrad, css$58, War, css$411, Forebears, css$316, Family2, css$221, Cursive, css$123, Latin, css26, prerender24, Russian;
+var init_russian_c93f69ad = __esm({
+  ".svelte-kit/output/server/chunks/russian-c93f69ad.js"() {
     init_shims();
-    init_app_1854d23c();
-    init_Lost_0e12fd9f();
+    init_app_5540c094();
+    init_Lost_807d30ff();
     init_ssr();
     css$b4 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -10138,10 +10235,14 @@ var init_russian_5a1b11c3 = __esm({
       code: ".inline-block.svelte-g219g3{display:inline-block}.grid.svelte-g219g3{display:-ms-grid;display:grid}.h-10.svelte-g219g3{height:2.5rem}.text-4xl.svelte-g219g3{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-g219g3{margin-left:2rem}.mt-3.svelte-g219g3{margin-top:0.75rem}.mt-20.svelte-g219g3{margin-top:5rem}.mt-8.svelte-g219g3{margin-top:2rem}.text-center.svelte-g219g3{text-align:center}.text-purple-500.svelte-g219g3{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-g219g3{width:3.5rem}.gap-4.svelte-g219g3{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-g219g3{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender23 = true;
+    prerender24 = true;
     Russian = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css26);
-      return `${$$result.head += `${$$result.title = `<title>Russian</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Russian</title>`, ""}<script data-svelte="svelte-1bcsylw">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638945399/webp/russian-flag.webp"}" alt="${"image of Russian flag"}"></div>
 
@@ -10168,18 +10269,18 @@ var init_russian_5a1b11c3 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/ukraine-46166553.js
-var ukraine_46166553_exports = {};
-__export(ukraine_46166553_exports, {
+// .svelte-kit/output/server/chunks/ukraine-f6435d3a.js
+var ukraine_f6435d3a_exports = {};
+__export(ukraine_f6435d3a_exports, {
   default: () => Ukraine,
-  prerender: () => prerender24
+  prerender: () => prerender25
 });
-var css$412, Nineteen, css$317, Ukstate, css$222, Residents, css$124, Dnipropetrovsk, css27, prerender24, Ukraine;
-var init_ukraine_46166553 = __esm({
-  ".svelte-kit/output/server/chunks/ukraine-46166553.js"() {
+var css$412, Nineteen, css$317, Ukstate, css$222, Residents, css$124, Dnipropetrovsk, css27, prerender25, Ukraine;
+var init_ukraine_f6435d3a = __esm({
+  ".svelte-kit/output/server/chunks/ukraine-f6435d3a.js"() {
     init_shims();
-    init_app_1854d23c();
-    init_Lost_0e12fd9f();
+    init_app_5540c094();
+    init_Lost_807d30ff();
     init_ssr();
     css$412 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -10251,10 +10352,14 @@ var init_ukraine_46166553 = __esm({
       code: ".inline-block.svelte-g219g3{display:inline-block}.grid.svelte-g219g3{display:-ms-grid;display:grid}.h-10.svelte-g219g3{height:2.5rem}.text-4xl.svelte-g219g3{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-g219g3{margin-left:2rem}.mt-3.svelte-g219g3{margin-top:0.75rem}.mt-20.svelte-g219g3{margin-top:5rem}.mt-8.svelte-g219g3{margin-top:2rem}.text-center.svelte-g219g3{text-align:center}.text-purple-500.svelte-g219g3{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-g219g3{width:3.5rem}.gap-4.svelte-g219g3{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-g219g3{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender24 = true;
+    prerender25 = true;
     Ukraine = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css27);
-      return `${$$result.head += `${$$result.title = `<title>Ukraine</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Ukraine</title>`, ""}<script data-svelte="svelte-f3sr0g">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638978523/webp/ukraine-flag.webp"}" alt="${"image of Ukraine flag"}"></div>
 
@@ -10272,17 +10377,17 @@ var init_ukraine_46166553 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/canada-a785e25b.js
-var canada_a785e25b_exports = {};
-__export(canada_a785e25b_exports, {
+// .svelte-kit/output/server/chunks/canada-6f9388fd.js
+var canada_6f9388fd_exports = {};
+__export(canada_6f9388fd_exports, {
   default: () => Canada,
-  prerender: () => prerender25
+  prerender: () => prerender26
 });
-var css$125, Canstate, css28, prerender25, Canada;
-var init_canada_a785e25b = __esm({
-  ".svelte-kit/output/server/chunks/canada-a785e25b.js"() {
+var css$125, Canstate, css28, prerender26, Canada;
+var init_canada_6f9388fd = __esm({
+  ".svelte-kit/output/server/chunks/canada-6f9388fd.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$125 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -10305,10 +10410,14 @@ var init_canada_a785e25b = __esm({
       code: ".inline-block.svelte-aztiwm{display:inline-block}.grid.svelte-aztiwm{display:-ms-grid;display:grid}.h-10.svelte-aztiwm{height:2.5rem}.text-4xl.svelte-aztiwm{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-aztiwm{margin-left:2rem}.mt-3.svelte-aztiwm{margin-top:0.75rem}.mt-20.svelte-aztiwm{margin-top:5rem}.text-center.svelte-aztiwm{text-align:center}.text-purple-500.svelte-aztiwm{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-aztiwm{width:3.5rem}.gap-4.svelte-aztiwm{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-aztiwm{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender25 = true;
+    prerender26 = true;
     Canada = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css28);
-      return `${$$result.head += `${$$result.title = `<title>Canada</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Canada</title>`, ""}<script data-svelte="svelte-1hsioy7">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639243547/webp/canada-flag.webp"}" alt="${"image of Canadian flag"}"></div>
 
 		Canadian Family History Resourses
@@ -10320,17 +10429,17 @@ var init_canada_a785e25b = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/french-80a766b1.js
-var french_80a766b1_exports = {};
-__export(french_80a766b1_exports, {
+// .svelte-kit/output/server/chunks/french-9eff975d.js
+var french_9eff975d_exports = {};
+__export(french_9eff975d_exports, {
   default: () => French,
-  prerender: () => prerender26
+  prerender: () => prerender27
 });
-var css$223, Fstate, css$126, Naturalisation, css29, prerender26, French;
-var init_french_80a766b1 = __esm({
-  ".svelte-kit/output/server/chunks/french-80a766b1.js"() {
+var css$223, Fstate, css$126, Naturalisation, css29, prerender27, French;
+var init_french_9eff975d = __esm({
+  ".svelte-kit/output/server/chunks/french-9eff975d.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$223 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -10370,10 +10479,14 @@ var init_french_80a766b1 = __esm({
       code: ".inline-block.svelte-aztiwm{display:inline-block}.grid.svelte-aztiwm{display:-ms-grid;display:grid}.h-10.svelte-aztiwm{height:2.5rem}.text-4xl.svelte-aztiwm{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-aztiwm{margin-left:2rem}.mt-3.svelte-aztiwm{margin-top:0.75rem}.mt-20.svelte-aztiwm{margin-top:5rem}.text-center.svelte-aztiwm{text-align:center}.text-purple-500.svelte-aztiwm{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-aztiwm{width:3.5rem}.gap-4.svelte-aztiwm{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-aztiwm{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender26 = true;
+    prerender27 = true;
     French = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css29);
-      return `${$$result.head += `${$$result.title = `<title>French</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>French</title>`, ""}<script data-svelte="svelte-1jy8mxl">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-aztiwm"}"><div class="${"h-10 w-14 inline-block svelte-aztiwm"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638892550/webp/french-flag.webp"}" alt="${"image of French flag"}"></div>
 
@@ -10387,17 +10500,17 @@ var init_french_80a766b1 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/shoah-c4ed7cb9.js
-var shoah_c4ed7cb9_exports = {};
-__export(shoah_c4ed7cb9_exports, {
+// .svelte-kit/output/server/chunks/shoah-7a20d283.js
+var shoah_7a20d283_exports = {};
+__export(shoah_7a20d283_exports, {
   default: () => Shoah,
-  prerender: () => prerender27
+  prerender: () => prerender28
 });
-var css$97, Yad, css$87, Ushmm, css$77, Records, css$67, Holocaust, css$59, French2, css$413, Camps, css$318, Galisian, css$224, Auschwitz, css$127, Arolsen, css30, prerender27, Shoah;
-var init_shoah_c4ed7cb9 = __esm({
-  ".svelte-kit/output/server/chunks/shoah-c4ed7cb9.js"() {
+var css$97, Yad, css$87, Ushmm, css$77, Records, css$67, Holocaust, css$59, French2, css$413, Camps, css$318, Galisian, css$224, Auschwitz, css$127, Arolsen, css30, prerender28, Shoah;
+var init_shoah_7a20d283 = __esm({
+  ".svelte-kit/output/server/chunks/shoah-7a20d283.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$97 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -10557,10 +10670,14 @@ var init_shoah_c4ed7cb9 = __esm({
       code: ".inline-block.svelte-cilmxy{display:inline-block}.grid.svelte-cilmxy{display:-ms-grid;display:grid}.h-10.svelte-cilmxy{height:2.5rem}.h-full.svelte-cilmxy{height:100%}.text-4xl.svelte-cilmxy{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-cilmxy{margin-left:2rem}.mt-3.svelte-cilmxy{margin-top:0.75rem}.mr-20.svelte-cilmxy{margin-right:5rem}.mt-20.svelte-cilmxy{margin-top:5rem}.mt-8.svelte-cilmxy{margin-top:2rem}.object-fill.svelte-cilmxy{-o-object-fit:fill;object-fit:fill}.text-center.svelte-cilmxy{text-align:center}.text-purple-500.svelte-cilmxy{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-cilmxy{width:3.5rem}.w-50.svelte-cilmxy{width:12.5rem}.gap-4.svelte-cilmxy{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-cilmxy{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender27 = true;
+    prerender28 = true;
     Shoah = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css30);
-      return `${$$result.head += `${$$result.title = `<title>Shoah</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Shoah</title>`, ""}<script data-svelte="svelte-190m1ac">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-cilmxy"}"><div class="${"h-10 w-14 inline-block mr-20 svelte-cilmxy"}"><iframe class="${"h-full w-50 object-fill svelte-cilmxy"}" title="${"candle flame"}" src="${"https://giphy.com/embed/j7N0GKEWqZxNC"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"}" allowfullscreen></iframe></div>
 
 		Shoah Resourses
@@ -10581,17 +10698,17 @@ var init_shoah_c4ed7cb9 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/usa-j-47d9023f.js
-var usa_j_47d9023f_exports = {};
-__export(usa_j_47d9023f_exports, {
+// .svelte-kit/output/server/chunks/usa-j-3bededb8.js
+var usa_j_3bededb8_exports = {};
+__export(usa_j_3bededb8_exports, {
   default: () => Usa_j,
-  prerender: () => prerender28
+  prerender: () => prerender29
 });
-var css$225, Cemny99, css$128, Society992, css31, prerender28, Usa_j;
-var init_usa_j_47d9023f = __esm({
-  ".svelte-kit/output/server/chunks/usa-j-47d9023f.js"() {
+var css$225, Cemny99, css$128, Society992, css31, prerender29, Usa_j;
+var init_usa_j_3bededb8 = __esm({
+  ".svelte-kit/output/server/chunks/usa-j-3bededb8.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$225 = {
       code: ".bg-gray-50.svelte-1wwpskm{--tw-bg-opacity:1;background-color:rgba(249, 250, 251, var(--tw-bg-opacity))}.rounded-lg.svelte-1wwpskm{border-radius:0.5rem}.border.svelte-1wwpskm{border-width:1px}.m-4.svelte-1wwpskm{margin:1rem}.overflow-auto.svelte-1wwpskm{overflow:auto}.p-4.svelte-1wwpskm{padding:1rem}.px-4.svelte-1wwpskm{padding-left:1rem;padding-right:1rem}.py-2.svelte-1wwpskm{padding-top:0.5rem;padding-bottom:0.5rem}.shadow-2xl.svelte-1wwpskm{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.table-auto.svelte-1wwpskm{table-layout:auto}.text-left.svelte-1wwpskm{text-align:left}.text-white.svelte-1wwpskm{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-1wwpskm:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.text-gray-700.svelte-1wwpskm{--tw-text-opacity:1;color:rgba(55, 65, 81, var(--tw-text-opacity))}.w-auto.svelte-1wwpskm{width:auto}",
@@ -10668,10 +10785,14 @@ var init_usa_j_47d9023f = __esm({
       code: ".inline-block.svelte-wxn5xt{display:inline-block}.grid.svelte-wxn5xt{display:-ms-grid;display:grid}.h-10.svelte-wxn5xt{height:2.5rem}.text-4xl.svelte-wxn5xt{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-wxn5xt{margin-left:2rem}.mt-3.svelte-wxn5xt{margin-top:0.75rem}.mt-20.svelte-wxn5xt{margin-top:5rem}.text-center.svelte-wxn5xt{text-align:center}.text-purple-500.svelte-wxn5xt{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-wxn5xt{width:3.5rem}.gap-4.svelte-wxn5xt{grid-gap:1rem;gap:1rem}.grid-cols-1.svelte-wxn5xt{grid-template-columns:repeat(1, minmax(0, 1fr))}@media(min-width: 640px){.sm\\:flex.svelte-wxn5xt{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender28 = true;
+    prerender29 = true;
     Usa_j = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css31);
-      return `${$$result.head += `${$$result.title = `<title>USA Jewish</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>USA Jewish</title>`, ""}<script data-svelte="svelte-1rncwhi">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-wxn5xt"}"><div class="${"h-10 w-14 inline-block svelte-wxn5xt"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639389123/webp/american-flag.webp"}" alt="${"image of USA flag"}"></div>
 		<div class="${"h-10 w-14 inline-block svelte-wxn5xt"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639135750/webp/star.webp"}" alt="${"image of star of david"}"></div>
 		USA Jewish Family History Resourses
@@ -10688,17 +10809,17 @@ var init_usa_j_47d9023f = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/video-099aa5e6.js
-var video_099aa5e6_exports = {};
-__export(video_099aa5e6_exports, {
+// .svelte-kit/output/server/chunks/video-993b1127.js
+var video_993b1127_exports = {};
+__export(video_993b1127_exports, {
   default: () => Video,
-  prerender: () => prerender29
+  prerender: () => prerender30
 });
-var css$88, Probate, css$78, Raf2, css$68, Marriage, css$510, Nat, css$414, Electorial, css$319, Companies3, css$226, Name, css$129, Buried, css32, prerender29, Video;
-var init_video_099aa5e6 = __esm({
-  ".svelte-kit/output/server/chunks/video-099aa5e6.js"() {
+var css$88, Probate, css$78, Raf2, css$68, Marriage, css$510, Nat, css$414, Electorial, css$319, Companies3, css$226, Name, css$129, Buried, css32, prerender30, Video;
+var init_video_993b1127 = __esm({
+  ".svelte-kit/output/server/chunks/video-993b1127.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$88 = {
       code: ".rounded-lg.svelte-e4hyfh{border-radius:0.5rem}.h-32.svelte-e4hyfh{height:8rem}.text-2xl.svelte-e4hyfh{font-size:1.5rem;line-height:2rem}.m-4.svelte-e4hyfh{margin:1rem}.object-fill.svelte-e4hyfh{-o-object-fit:fill;object-fit:fill}.p-4.svelte-e4hyfh{padding:1rem}.p-6.svelte-e4hyfh{padding:1.5rem}.shadow-2xl.svelte-e4hyfh{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-e4hyfh{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.w-auto.svelte-e4hyfh{width:auto}.w-full.svelte-e4hyfh{width:100%}",
@@ -10813,10 +10934,14 @@ var init_video_099aa5e6 = __esm({
       code: ".inline-block.svelte-g219g3{display:inline-block}.grid.svelte-g219g3{display:-ms-grid;display:grid}.h-10.svelte-g219g3{height:2.5rem}.text-4xl.svelte-g219g3{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-g219g3{margin-left:2rem}.mt-3.svelte-g219g3{margin-top:0.75rem}.mt-20.svelte-g219g3{margin-top:5rem}.mt-8.svelte-g219g3{margin-top:2rem}.text-center.svelte-g219g3{text-align:center}.text-purple-500.svelte-g219g3{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-g219g3{width:3.5rem}.gap-4.svelte-g219g3{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-g219g3{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender29 = true;
+    prerender30 = true;
     Video = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css32);
-      return `${$$result.head += `${$$result.title = `<title>Video&#39;s</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>Video&#39;s</title>`, ""}<script data-svelte="svelte-1ub7jp0">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639596218/webp/video_icon.webp"}" alt="${"image of video icon"}"></div>
 
 		Family History Youtube video&#39;s
@@ -10837,17 +10962,17 @@ var init_video_099aa5e6 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/dna-39d92681.js
-var dna_39d92681_exports = {};
-__export(dna_39d92681_exports, {
+// .svelte-kit/output/server/chunks/dna-67a02b67.js
+var dna_67a02b67_exports = {};
+__export(dna_67a02b67_exports, {
   default: () => Dna,
-  prerender: () => prerender30
+  prerender: () => prerender31
 });
-var css$89, Medna, css$79, Myheritage, css$69, Illatrative, css$511, Living, css$415, GedMatch, css$320, Familydna, css$227, Painter, css$130, Ancestrydna, css33, prerender30, Dna;
-var init_dna_39d92681 = __esm({
-  ".svelte-kit/output/server/chunks/dna-39d92681.js"() {
+var css$89, Medna, css$79, Myheritage, css$69, Illatrative, css$511, Living, css$415, GedMatch, css$320, Familydna, css$227, Painter, css$130, Ancestrydna, css33, prerender31, Dna;
+var init_dna_67a02b67 = __esm({
+  ".svelte-kit/output/server/chunks/dna-67a02b67.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$89 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -10989,10 +11114,14 @@ var init_dna_39d92681 = __esm({
       code: ".inline-block.svelte-g219g3{display:inline-block}.grid.svelte-g219g3{display:-ms-grid;display:grid}.h-10.svelte-g219g3{height:2.5rem}.text-4xl.svelte-g219g3{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-g219g3{margin-left:2rem}.mt-3.svelte-g219g3{margin-top:0.75rem}.mt-20.svelte-g219g3{margin-top:5rem}.mt-8.svelte-g219g3{margin-top:2rem}.text-center.svelte-g219g3{text-align:center}.text-purple-500.svelte-g219g3{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-g219g3{width:3.5rem}.gap-4.svelte-g219g3{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-g219g3{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender30 = true;
+    prerender31 = true;
     Dna = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css33);
-      return `${$$result.head += `${$$result.title = `<title>DNA</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>DNA</title>`, ""}<script data-svelte="svelte-14ukjzk">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639580261/webp/dna_icon1.webp"}" alt="${"image of dna icon"}"></div>
 
 		DNA Testing
@@ -11013,17 +11142,17 @@ var init_dna_39d92681 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/usa-f0e8ba63.js
-var usa_f0e8ba63_exports = {};
-__export(usa_f0e8ba63_exports, {
+// .svelte-kit/output/server/chunks/usa-d8fd41bc.js
+var usa_d8fd41bc_exports = {};
+__export(usa_d8fd41bc_exports, {
   default: () => Usa,
-  prerender: () => prerender31
+  prerender: () => prerender32
 });
-var css$98, Nyindex, css$810, York, css$710, Ellis, css$610, Nyarchives, css$512, Brooklyn, css$416, Wargraves, css$321, Usstate, css$228, Step99, css$131, Intelius99, css34, prerender31, Usa;
-var init_usa_f0e8ba63 = __esm({
-  ".svelte-kit/output/server/chunks/usa-f0e8ba63.js"() {
+var css$98, Nyindex, css$810, York, css$710, Ellis, css$610, Nyarchives, css$512, Brooklyn, css$416, Wargraves, css$321, Usstate, css$228, Step99, css$131, Intelius99, css34, prerender32, Usa;
+var init_usa_d8fd41bc = __esm({
+  ".svelte-kit/output/server/chunks/usa-d8fd41bc.js"() {
     init_shims();
-    init_app_1854d23c();
+    init_app_5540c094();
     init_ssr();
     css$98 = {
       code: ".rounded-lg.svelte-uz66hb{border-radius:0.5rem}.h-32.svelte-uz66hb{height:8rem}.text-2xl.svelte-uz66hb{font-size:1.5rem;line-height:2rem}.m-4.svelte-uz66hb{margin:1rem}.object-fill.svelte-uz66hb{-o-object-fit:fill;object-fit:fill}.p-4.svelte-uz66hb{padding:1rem}.p-6.svelte-uz66hb{padding:1.5rem}.shadow-2xl.svelte-uz66hb{--tw-shadow-color:0, 0, 0;--tw-shadow:0 25px 50px -12px rgba(var(--tw-shadow-color), 0.25);-webkit-box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.text-white.svelte-uz66hb{--tw-text-opacity:1;color:rgba(255, 255, 255, var(--tw-text-opacity))}.hover\\:text-yellow-500.svelte-uz66hb:hover{--tw-text-opacity:1;color:rgba(245, 158, 11, var(--tw-text-opacity))}.w-auto.svelte-uz66hb{width:auto}.w-full.svelte-uz66hb{width:100%}",
@@ -11185,10 +11314,14 @@ var init_usa_f0e8ba63 = __esm({
       code: ".inline-block.svelte-g219g3{display:inline-block}.grid.svelte-g219g3{display:-ms-grid;display:grid}.h-10.svelte-g219g3{height:2.5rem}.text-4xl.svelte-g219g3{font-size:2.25rem;line-height:2.5rem}.ml-8.svelte-g219g3{margin-left:2rem}.mt-3.svelte-g219g3{margin-top:0.75rem}.mt-20.svelte-g219g3{margin-top:5rem}.mt-8.svelte-g219g3{margin-top:2rem}.text-center.svelte-g219g3{text-align:center}.text-purple-500.svelte-g219g3{--tw-text-opacity:1;color:rgba(139, 92, 246, var(--tw-text-opacity))}.w-14.svelte-g219g3{width:3.5rem}.gap-4.svelte-g219g3{grid-gap:1rem;gap:1rem}@media(min-width: 640px){.sm\\:flex.svelte-g219g3{display:-webkit-box;display:-ms-flexbox;display:-webkit-flex;display:flex}}",
       map: null
     };
-    prerender31 = true;
+    prerender32 = true;
     Usa = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       $$result.css.add(css34);
-      return `${$$result.head += `${$$result.title = `<title>USA</title>`, ""}`, ""}
+      return `${$$result.head += `${$$result.title = `<title>USA</title>`, ""}<script data-svelte="svelte-gck23u">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJS56TL');<\/script>`, ""}
 <section class="${"one"}"><h1 class="${"ml-8 mt-3 inline-block text-center text-purple-500 text-font-sans text-4xl svelte-g219g3"}"><div class="${"h-10 w-14 inline-block svelte-g219g3"}"><img src="${"https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1639389123/webp/american-flag.webp"}" alt="${"image of USA flag"}"></div>
 
 		USA Family History Resourses
@@ -11213,7 +11346,7 @@ var init_usa_f0e8ba63 = __esm({
   }
 });
 
-// .svelte-kit/output/server/chunks/app-1854d23c.js
+// .svelte-kit/output/server/chunks/app-5540c094.js
 function run(fn) {
   return fn();
 }
@@ -11295,9 +11428,9 @@ function init(settings = default_settings) {
     amp: false,
     dev: false,
     entry: {
-      file: assets + "/_app/start-0eb78a45.js",
+      file: assets + "/_app/start-644c2d93.js",
       css: [assets + "/_app/assets/start-1f089c51.css"],
-      js: [assets + "/_app/start-0eb78a45.js", assets + "/_app/chunks/vendor-28470302.js"]
+      js: [assets + "/_app/start-644c2d93.js", assets + "/_app/chunks/vendor-28470302.js"]
     },
     fetched: void 0,
     floc: false,
@@ -11335,14 +11468,14 @@ async function load_component(file) {
   };
 }
 function render(request, {
-  prerender: prerender32
+  prerender: prerender33
 } = {}) {
   const host = request.headers["host"];
-  return respond({ ...request, host }, options, { prerender: prerender32 });
+  return respond({ ...request, host }, options, { prerender: prerender33 });
 }
 var current_component, escaped2, missing_component, on_destroy, css35, Root, base, assets, user_hooks, template, options, default_settings, empty, manifest, get_hooks, module_lookup, metadata_lookup;
-var init_app_1854d23c = __esm({
-  ".svelte-kit/output/server/chunks/app-1854d23c.js"() {
+var init_app_5540c094 = __esm({
+  ".svelte-kit/output/server/chunks/app-5540c094.js"() {
     init_shims();
     init_ssr();
     Promise.resolve();
@@ -11641,42 +11774,42 @@ ${``}`;
       externalFetch: hooks.externalFetch || fetch
     });
     module_lookup = {
-      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_89447864(), layout_89447864_exports)),
-      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_2f8493a2(), error_2f8493a2_exports)),
-      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_b6f3cd28(), index_b6f3cd28_exports)),
-      "src/routes/netherlands-j.svelte": () => Promise.resolve().then(() => (init_netherlands_j_789ff4a0(), netherlands_j_789ff4a0_exports)),
-      "src/routes/australia-j.svelte": () => Promise.resolve().then(() => (init_australia_j_1fb4c6fc(), australia_j_1fb4c6fc_exports)),
-      "src/routes/netherlands.svelte": () => Promise.resolve().then(() => (init_netherlands_519f9c87(), netherlands_519f9c87_exports)),
-      "src/routes/austrian-j.svelte": () => Promise.resolve().then(() => (init_austrian_j_be12428b(), austrian_j_be12428b_exports)),
-      "src/routes/newzealand.svelte": () => Promise.resolve().then(() => (init_newzealand_016b8a61(), newzealand_016b8a61_exports)),
-      "src/routes/australia.svelte": () => Promise.resolve().then(() => (init_australia_dd4877bb(), australia_dd4877bb_exports)),
-      "src/routes/belarus-j.svelte": () => Promise.resolve().then(() => (init_belarus_j_601d5fd9(), belarus_j_601d5fd9_exports)),
-      "src/routes/british-j.svelte": () => Promise.resolve().then(() => (init_british_j_8e940bef(), british_j_8e940bef_exports)),
-      "src/routes/ireland-j.svelte": () => Promise.resolve().then(() => (init_ireland_j_12a2149c(), ireland_j_12a2149c_exports)),
-      "src/routes/italian-j.svelte": () => Promise.resolve().then(() => (init_italian_j_769ded5a(), italian_j_769ded5a_exports)),
-      "src/routes/russian-j.svelte": () => Promise.resolve().then(() => (init_russian_j_cb4aa422(), russian_j_cb4aa422_exports)),
-      "src/routes/ukraine-j.svelte": () => Promise.resolve().then(() => (init_ukraine_j_f6d6de0a(), ukraine_j_f6d6de0a_exports)),
-      "src/routes/austrian.svelte": () => Promise.resolve().then(() => (init_austrian_953142b1(), austrian_953142b1_exports)),
-      "src/routes/barbados.svelte": () => Promise.resolve().then(() => (init_barbados_a3badc59(), barbados_a3badc59_exports)),
-      "src/routes/canada-j.svelte": () => Promise.resolve().then(() => (init_canada_j_6c1ad01c(), canada_j_6c1ad01c_exports)),
-      "src/routes/belarus.svelte": () => Promise.resolve().then(() => (init_belarus_290ba117(), belarus_290ba117_exports)),
-      "src/routes/belgium.svelte": () => Promise.resolve().then(() => (init_belgium_6d0404f4(), belgium_6d0404f4_exports)),
-      "src/routes/bermuda.svelte": () => Promise.resolve().then(() => (init_bermuda_880a2caa(), bermuda_880a2caa_exports)),
-      "src/routes/british.svelte": () => Promise.resolve().then(() => (init_british_e1764ff2(), british_e1764ff2_exports)),
-      "src/routes/contact.svelte": () => Promise.resolve().then(() => (init_contact_f32739d8(), contact_f32739d8_exports)),
-      "src/routes/general.svelte": () => Promise.resolve().then(() => (init_general_d91ae5a4(), general_d91ae5a4_exports)),
-      "src/routes/ireland.svelte": () => Promise.resolve().then(() => (init_ireland_8230ba4c(), ireland_8230ba4c_exports)),
-      "src/routes/russian.svelte": () => Promise.resolve().then(() => (init_russian_5a1b11c3(), russian_5a1b11c3_exports)),
-      "src/routes/ukraine.svelte": () => Promise.resolve().then(() => (init_ukraine_46166553(), ukraine_46166553_exports)),
-      "src/routes/canada.svelte": () => Promise.resolve().then(() => (init_canada_a785e25b(), canada_a785e25b_exports)),
-      "src/routes/french.svelte": () => Promise.resolve().then(() => (init_french_80a766b1(), french_80a766b1_exports)),
-      "src/routes/shoah.svelte": () => Promise.resolve().then(() => (init_shoah_c4ed7cb9(), shoah_c4ed7cb9_exports)),
-      "src/routes/usa-j.svelte": () => Promise.resolve().then(() => (init_usa_j_47d9023f(), usa_j_47d9023f_exports)),
-      "src/routes/video.svelte": () => Promise.resolve().then(() => (init_video_099aa5e6(), video_099aa5e6_exports)),
-      "src/routes/dna.svelte": () => Promise.resolve().then(() => (init_dna_39d92681(), dna_39d92681_exports)),
-      "src/routes/usa.svelte": () => Promise.resolve().then(() => (init_usa_f0e8ba63(), usa_f0e8ba63_exports))
+      "src/routes/__layout.svelte": () => Promise.resolve().then(() => (init_layout_4e47f4b1(), layout_4e47f4b1_exports)),
+      ".svelte-kit/build/components/error.svelte": () => Promise.resolve().then(() => (init_error_35ab80b7(), error_35ab80b7_exports)),
+      "src/routes/index.svelte": () => Promise.resolve().then(() => (init_index_4bbf0348(), index_4bbf0348_exports)),
+      "src/routes/netherlands-j.svelte": () => Promise.resolve().then(() => (init_netherlands_j_702f5063(), netherlands_j_702f5063_exports)),
+      "src/routes/australia-j.svelte": () => Promise.resolve().then(() => (init_australia_j_c5d4894a(), australia_j_c5d4894a_exports)),
+      "src/routes/netherlands.svelte": () => Promise.resolve().then(() => (init_netherlands_562cbfaa(), netherlands_562cbfaa_exports)),
+      "src/routes/austrian-j.svelte": () => Promise.resolve().then(() => (init_austrian_j_0057ce56(), austrian_j_0057ce56_exports)),
+      "src/routes/newzealand.svelte": () => Promise.resolve().then(() => (init_newzealand_2e05cc2d(), newzealand_2e05cc2d_exports)),
+      "src/routes/australia.svelte": () => Promise.resolve().then(() => (init_australia_c139f062(), australia_c139f062_exports)),
+      "src/routes/belarus-j.svelte": () => Promise.resolve().then(() => (init_belarus_j_ecd052d4(), belarus_j_ecd052d4_exports)),
+      "src/routes/british-j.svelte": () => Promise.resolve().then(() => (init_british_j_2b8ae92c(), british_j_2b8ae92c_exports)),
+      "src/routes/ireland-j.svelte": () => Promise.resolve().then(() => (init_ireland_j_131c09a6(), ireland_j_131c09a6_exports)),
+      "src/routes/italian-j.svelte": () => Promise.resolve().then(() => (init_italian_j_37c326b1(), italian_j_37c326b1_exports)),
+      "src/routes/russian-j.svelte": () => Promise.resolve().then(() => (init_russian_j_dbdb5073(), russian_j_dbdb5073_exports)),
+      "src/routes/ukraine-j.svelte": () => Promise.resolve().then(() => (init_ukraine_j_07358b39(), ukraine_j_07358b39_exports)),
+      "src/routes/austrian.svelte": () => Promise.resolve().then(() => (init_austrian_51ea65b5(), austrian_51ea65b5_exports)),
+      "src/routes/barbados.svelte": () => Promise.resolve().then(() => (init_barbados_7ba993e6(), barbados_7ba993e6_exports)),
+      "src/routes/canada-j.svelte": () => Promise.resolve().then(() => (init_canada_j_358c108f(), canada_j_358c108f_exports)),
+      "src/routes/belarus.svelte": () => Promise.resolve().then(() => (init_belarus_3c8c66d4(), belarus_3c8c66d4_exports)),
+      "src/routes/belgium.svelte": () => Promise.resolve().then(() => (init_belgium_c3c4b896(), belgium_c3c4b896_exports)),
+      "src/routes/bermuda.svelte": () => Promise.resolve().then(() => (init_bermuda_92180cdc(), bermuda_92180cdc_exports)),
+      "src/routes/british.svelte": () => Promise.resolve().then(() => (init_british_221a9a65(), british_221a9a65_exports)),
+      "src/routes/contact.svelte": () => Promise.resolve().then(() => (init_contact_a82d7638(), contact_a82d7638_exports)),
+      "src/routes/general.svelte": () => Promise.resolve().then(() => (init_general_ef6e732d(), general_ef6e732d_exports)),
+      "src/routes/ireland.svelte": () => Promise.resolve().then(() => (init_ireland_955b3c0e(), ireland_955b3c0e_exports)),
+      "src/routes/russian.svelte": () => Promise.resolve().then(() => (init_russian_c93f69ad(), russian_c93f69ad_exports)),
+      "src/routes/ukraine.svelte": () => Promise.resolve().then(() => (init_ukraine_f6435d3a(), ukraine_f6435d3a_exports)),
+      "src/routes/canada.svelte": () => Promise.resolve().then(() => (init_canada_6f9388fd(), canada_6f9388fd_exports)),
+      "src/routes/french.svelte": () => Promise.resolve().then(() => (init_french_9eff975d(), french_9eff975d_exports)),
+      "src/routes/shoah.svelte": () => Promise.resolve().then(() => (init_shoah_7a20d283(), shoah_7a20d283_exports)),
+      "src/routes/usa-j.svelte": () => Promise.resolve().then(() => (init_usa_j_3bededb8(), usa_j_3bededb8_exports)),
+      "src/routes/video.svelte": () => Promise.resolve().then(() => (init_video_993b1127(), video_993b1127_exports)),
+      "src/routes/dna.svelte": () => Promise.resolve().then(() => (init_dna_67a02b67(), dna_67a02b67_exports)),
+      "src/routes/usa.svelte": () => Promise.resolve().then(() => (init_usa_d8fd41bc(), usa_d8fd41bc_exports))
     };
-    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-42254108.js", "css": ["assets/pages/__layout.svelte-f1ec1d30.css"], "js": ["pages/__layout.svelte-42254108.js", "chunks/vendor-28470302.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-507b3558.js", "css": [], "js": ["error.svelte-507b3558.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-01227ae2.js", "css": ["assets/pages/index.svelte-30506a56.css"], "js": ["pages/index.svelte-01227ae2.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/netherlands-j.svelte": { "entry": "pages/netherlands-j.svelte-e6cc6a73.js", "css": ["assets/pages/netherlands-j.svelte-4fe5128b.css"], "js": ["pages/netherlands-j.svelte-e6cc6a73.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/australia-j.svelte": { "entry": "pages/australia-j.svelte-f6b12175.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/australia-j.svelte-f6b12175.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/netherlands.svelte": { "entry": "pages/netherlands.svelte-9bba7457.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css"], "js": ["pages/netherlands.svelte-9bba7457.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/austrian-j.svelte": { "entry": "pages/austrian-j.svelte-c181e9b1.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css"], "js": ["pages/austrian-j.svelte-c181e9b1.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/newzealand.svelte": { "entry": "pages/newzealand.svelte-d9ce6140.js", "css": ["assets/pages/newzealand.svelte-4345acdd.css"], "js": ["pages/newzealand.svelte-d9ce6140.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/australia.svelte": { "entry": "pages/australia.svelte-7c13be65.js", "css": ["assets/pages/australia.svelte-b349f3b9.css"], "js": ["pages/australia.svelte-7c13be65.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/belarus-j.svelte": { "entry": "pages/belarus-j.svelte-12cea584.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css"], "js": ["pages/belarus-j.svelte-12cea584.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/british-j.svelte": { "entry": "pages/british-j.svelte-3dcab9e3.js", "css": ["assets/pages/british-j.svelte-e0eaffd3.css"], "js": ["pages/british-j.svelte-3dcab9e3.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/ireland-j.svelte": { "entry": "pages/ireland-j.svelte-70292df6.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/ireland-j.svelte-70292df6.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/italian-j.svelte": { "entry": "pages/italian-j.svelte-b52f9b7e.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/italian-j.svelte-b52f9b7e.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/russian-j.svelte": { "entry": "pages/russian-j.svelte-d5bd3f5e.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/russian-j.svelte-d5bd3f5e.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/ukraine-j.svelte": { "entry": "pages/ukraine-j.svelte-d01112de.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css"], "js": ["pages/ukraine-j.svelte-d01112de.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/austrian.svelte": { "entry": "pages/austrian.svelte-95661a52.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/austrian.svelte-95661a52.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/barbados.svelte": { "entry": "pages/barbados.svelte-a002e9b3.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/barbados.svelte-a002e9b3.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/canada-j.svelte": { "entry": "pages/canada-j.svelte-ce67c240.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/canada-j.svelte-ce67c240.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/belarus.svelte": { "entry": "pages/belarus.svelte-09dff1bd.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/belarus.svelte-09dff1bd.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/belgium.svelte": { "entry": "pages/belgium.svelte-8841ef0c.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/belgium.svelte-8841ef0c.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/bermuda.svelte": { "entry": "pages/bermuda.svelte-a88681da.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/bermuda.svelte-a88681da.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/british.svelte": { "entry": "pages/british.svelte-245d952f.js", "css": ["assets/pages/british.svelte-2a5d1767.css"], "js": ["pages/british.svelte-245d952f.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/contact.svelte": { "entry": "pages/contact.svelte-1c3b1134.js", "css": ["assets/pages/contact.svelte-230f88fd.css"], "js": ["pages/contact.svelte-1c3b1134.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/general.svelte": { "entry": "pages/general.svelte-ee82f158.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css"], "js": ["pages/general.svelte-ee82f158.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/ireland.svelte": { "entry": "pages/ireland.svelte-01860fb9.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/ireland.svelte-01860fb9.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/russian.svelte": { "entry": "pages/russian.svelte-885c6d8d.js", "css": ["assets/pages/russian.svelte-4f0c37ac.css", "assets/Lost-ac4f0319.css"], "js": ["pages/russian.svelte-885c6d8d.js", "chunks/vendor-28470302.js", "chunks/Lost-7342543e.js"], "styles": [] }, "src/routes/ukraine.svelte": { "entry": "pages/ukraine.svelte-b496bb9e.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css", "assets/Lost-ac4f0319.css"], "js": ["pages/ukraine.svelte-b496bb9e.js", "chunks/vendor-28470302.js", "chunks/Lost-7342543e.js"], "styles": [] }, "src/routes/canada.svelte": { "entry": "pages/canada.svelte-5c2724dd.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/canada.svelte-5c2724dd.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/french.svelte": { "entry": "pages/french.svelte-0b072093.js", "css": ["assets/pages/belarus.svelte-aad99b98.css"], "js": ["pages/french.svelte-0b072093.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/shoah.svelte": { "entry": "pages/shoah.svelte-eb7f48a8.js", "css": ["assets/pages/shoah.svelte-e173945f.css"], "js": ["pages/shoah.svelte-eb7f48a8.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/usa-j.svelte": { "entry": "pages/usa-j.svelte-8fe1c1db.js", "css": ["assets/pages/usa-j.svelte-3bd1a4bc.css"], "js": ["pages/usa-j.svelte-8fe1c1db.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/video.svelte": { "entry": "pages/video.svelte-cdd2cb4e.js", "css": ["assets/pages/video.svelte-87eed3f2.css"], "js": ["pages/video.svelte-cdd2cb4e.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/dna.svelte": { "entry": "pages/dna.svelte-77d86a7e.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css"], "js": ["pages/dna.svelte-77d86a7e.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/usa.svelte": { "entry": "pages/usa.svelte-891e6e17.js", "css": ["assets/pages/dna.svelte-3bf1a7bb.css"], "js": ["pages/usa.svelte-891e6e17.js", "chunks/vendor-28470302.js"], "styles": [] } };
+    metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-42254108.js", "css": ["assets/pages/__layout.svelte-f1ec1d30.css"], "js": ["pages/__layout.svelte-42254108.js", "chunks/vendor-28470302.js"], "styles": [] }, ".svelte-kit/build/components/error.svelte": { "entry": "error.svelte-507b3558.js", "css": [], "js": ["error.svelte-507b3558.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-01227ae2.js", "css": ["assets/pages/index.svelte-30506a56.css"], "js": ["pages/index.svelte-01227ae2.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/netherlands-j.svelte": { "entry": "pages/netherlands-j.svelte-dda8f5b1.js", "css": ["assets/pages/netherlands-j.svelte-4fe5128b.css"], "js": ["pages/netherlands-j.svelte-dda8f5b1.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/australia-j.svelte": { "entry": "pages/australia-j.svelte-f53aa1a7.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/australia-j.svelte-f53aa1a7.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/netherlands.svelte": { "entry": "pages/netherlands.svelte-58246560.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css"], "js": ["pages/netherlands.svelte-58246560.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/austrian-j.svelte": { "entry": "pages/austrian-j.svelte-8e460d1b.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css"], "js": ["pages/austrian-j.svelte-8e460d1b.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/newzealand.svelte": { "entry": "pages/newzealand.svelte-0db69adb.js", "css": ["assets/pages/newzealand.svelte-4345acdd.css"], "js": ["pages/newzealand.svelte-0db69adb.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/australia.svelte": { "entry": "pages/australia.svelte-bd3dee4f.js", "css": ["assets/pages/australia.svelte-b349f3b9.css"], "js": ["pages/australia.svelte-bd3dee4f.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/belarus-j.svelte": { "entry": "pages/belarus-j.svelte-2cc4f7c7.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css"], "js": ["pages/belarus-j.svelte-2cc4f7c7.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/british-j.svelte": { "entry": "pages/british-j.svelte-7cb8548d.js", "css": ["assets/pages/british-j.svelte-e0eaffd3.css"], "js": ["pages/british-j.svelte-7cb8548d.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/ireland-j.svelte": { "entry": "pages/ireland-j.svelte-ece55ae2.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/ireland-j.svelte-ece55ae2.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/italian-j.svelte": { "entry": "pages/italian-j.svelte-730c2ae3.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/italian-j.svelte-730c2ae3.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/russian-j.svelte": { "entry": "pages/russian-j.svelte-2518b398.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/russian-j.svelte-2518b398.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/ukraine-j.svelte": { "entry": "pages/ukraine-j.svelte-4a15cb02.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css"], "js": ["pages/ukraine-j.svelte-4a15cb02.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/austrian.svelte": { "entry": "pages/austrian.svelte-ee4653c1.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/austrian.svelte-ee4653c1.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/barbados.svelte": { "entry": "pages/barbados.svelte-160f026c.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/barbados.svelte-160f026c.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/canada-j.svelte": { "entry": "pages/canada-j.svelte-3c34fc3b.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/canada-j.svelte-3c34fc3b.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/belarus.svelte": { "entry": "pages/belarus.svelte-900c525d.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/belarus.svelte-900c525d.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/belgium.svelte": { "entry": "pages/belgium.svelte-af64548c.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/belgium.svelte-af64548c.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/bermuda.svelte": { "entry": "pages/bermuda.svelte-556644e0.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/bermuda.svelte-556644e0.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/british.svelte": { "entry": "pages/british.svelte-da9ee5f4.js", "css": ["assets/pages/british.svelte-2a5d1767.css"], "js": ["pages/british.svelte-da9ee5f4.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/contact.svelte": { "entry": "pages/contact.svelte-5544b128.js", "css": ["assets/pages/contact.svelte-230f88fd.css"], "js": ["pages/contact.svelte-5544b128.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/general.svelte": { "entry": "pages/general.svelte-8ad4a367.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css"], "js": ["pages/general.svelte-8ad4a367.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/ireland.svelte": { "entry": "pages/ireland.svelte-8df0856d.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/ireland.svelte-8df0856d.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/russian.svelte": { "entry": "pages/russian.svelte-6bdaf474.js", "css": ["assets/pages/russian.svelte-4f0c37ac.css", "assets/Lost-ac4f0319.css"], "js": ["pages/russian.svelte-6bdaf474.js", "chunks/vendor-28470302.js", "chunks/Lost-7342543e.js"], "styles": [] }, "src/routes/ukraine.svelte": { "entry": "pages/ukraine.svelte-58818e43.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css", "assets/Lost-ac4f0319.css"], "js": ["pages/ukraine.svelte-58818e43.js", "chunks/vendor-28470302.js", "chunks/Lost-7342543e.js"], "styles": [] }, "src/routes/canada.svelte": { "entry": "pages/canada.svelte-943beba6.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/canada.svelte-943beba6.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/french.svelte": { "entry": "pages/french.svelte-f1093551.js", "css": ["assets/pages/french.svelte-2af7346c.css"], "js": ["pages/french.svelte-f1093551.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/shoah.svelte": { "entry": "pages/shoah.svelte-ce5b60d2.js", "css": ["assets/pages/shoah.svelte-e173945f.css"], "js": ["pages/shoah.svelte-ce5b60d2.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/usa-j.svelte": { "entry": "pages/usa-j.svelte-dd8841d8.js", "css": ["assets/pages/usa-j.svelte-3bd1a4bc.css"], "js": ["pages/usa-j.svelte-dd8841d8.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/video.svelte": { "entry": "pages/video.svelte-4055d468.js", "css": ["assets/pages/video.svelte-87eed3f2.css"], "js": ["pages/video.svelte-4055d468.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/dna.svelte": { "entry": "pages/dna.svelte-8aa8dc51.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css"], "js": ["pages/dna.svelte-8aa8dc51.js", "chunks/vendor-28470302.js"], "styles": [] }, "src/routes/usa.svelte": { "entry": "pages/usa.svelte-97c406f5.js", "css": ["assets/pages/ukraine.svelte-f49768ca.css"], "js": ["pages/usa.svelte-97c406f5.js", "chunks/vendor-28470302.js"], "styles": [] } };
   }
 });
 
@@ -11689,7 +11822,7 @@ init_shims();
 // .svelte-kit/output/server/app.js
 init_shims();
 init_ssr();
-init_app_1854d23c();
+init_app_5540c094();
 
 // .svelte-kit/netlify/entry.js
 init();
