@@ -1,0 +1,28 @@
+{
+  "name": "robin",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview",
+    "lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. .",
+    "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-netlify": "^1.0.0-next.36",
+    "@sveltejs/kit": "next",
+    "prettier": "^2.5.1",
+    "prettier-plugin-svelte": "^2.5.1",
+    "svelte": "^3.44.2",
+    "svelte-windicss-preprocess": "4.1.7"
+  },
+  "type": "module",
+  "dependencies": {
+    "@netlify/plugin-sitemap": "^0.8.1",
+    "@sveltejs/adapter-vercel": "^1.0.0-next.31",
+    "daisyui": "^1.16.2",
+    "netlify-cli": "^8.1.8"
+  }
+}
